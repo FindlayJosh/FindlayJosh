@@ -7,7 +7,7 @@
 Here are some ideas to get you started:
 -->
 - 🔭 I’m currently working on projects for Resilient Coders.
-- 🌱 I’m currently learning node.js, MongoDB, & Javascript.
+- 🌱 I’m currently learning React.
 - 👯 I’m looking to collaborate on creative endeavors related to Javascript.
 - 📫 How to reach me: JoshuaFindlayDev@gmail.com
 - 😄 Pronouns: He/Him/His
